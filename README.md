@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='../Downloads/Recording 2023-08-27 at 16.16.53.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./Recording 2023-08-27 at 16.16.53.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with gifcap
